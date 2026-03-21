@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;Programador+em+Formação;Focado+em+Python,+C+e+JavaScript" alt="Typing SVG" />
   </p>
   
-  <img src="https://img.shields.io/badge/Conecte--se%20comigo!-000000?style=for-the-badge&logo=github&logoColor=white" /> 
+  ### 📱 Contatos
 
   <p align="center">
     <a href="https://www.linkedin.com/in/felipeduraesbr/">
@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/felipeduraes7?tab=repositories">
-      <img src="https://img.shields.io/badge/Projetos-00770f?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Projetos-000000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://instagram.com/felipedurs">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
