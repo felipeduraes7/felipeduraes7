@@ -4,7 +4,7 @@
   # Olá, eu sou o Felipe 👋
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Analyst+and+Junior+Dev;Programador+Front+End;Focado+em+C,+Java,+UX,+UI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Analyst+and+Junior+Dev;Programador+Front+End;Focado+em+C,+Java,+UX,+e+UI" alt="Typing SVG" />
   </p>
   
   ### 📱 Contatos
