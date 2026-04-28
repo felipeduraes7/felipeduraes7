@@ -23,7 +23,7 @@
     Os parâmetros na URL controlam: fonte, tamanho, cor (branco #FFFFFF), e as frases.
   -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Analyst+Junior+Dev;Programador+Front+End;Focado+em+Python,+C+e+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Dev+ Junior;Programador+Front+End;Focado+em+Python,+C+e+JavaScript" alt="Typing SVG" />
   </p>
 
   ### 📱 Contatos
